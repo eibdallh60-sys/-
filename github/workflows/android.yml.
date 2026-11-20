@@ -1,4 +1,4 @@
-name: Build زب محمد APK
+name: Build ClipPro APK
 
 on:
   workflow_dispatch:
